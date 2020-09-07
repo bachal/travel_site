@@ -1,0 +1,25 @@
+.abouts{
+    background-image: url("https://wallpapercave.com/wp/wp2120738.jpg");
+   
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    opacity:0.80;
+    
+   
+    
+}
+
+
+.tx{
+
+    color:red;
+    font-weight: 500;
+
+}
+.tx1{
+
+    color:black;
+    font-weight: 500;
+
+}
